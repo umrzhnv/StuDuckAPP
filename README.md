@@ -53,7 +53,7 @@
 ![Успеваемость](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/Успеваемость.png)
 
 
-![Выстывление оценок](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/ВыстывлениеОценок.png)
+![ВыстывлениеОценок](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/ВыстывлениеОценок.png)
 
 ---
 
