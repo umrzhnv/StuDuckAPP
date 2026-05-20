@@ -41,8 +41,19 @@
 
 ### Скриншоты
 
+![Авторизация](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/Авторизация.png)
+
+
 ![Главное окно приложения](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/Главная.png)
 
+
+![Расписание](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/Расписание.png)
+
+
+![Успеваемость](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/Успеваемость.png)
+
+
+![Выстывление оценок](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/Выстывление_оценок.png)
 ---
 
 ### Автор
