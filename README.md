@@ -48,4 +48,4 @@
 ### Автор
 
 **Амира Умиржанова**  
-GitHub: [://github.com](https://umrzhnv//github.com)  
+GitHub: [://github.com](https://github.com/umrzhnv)  
