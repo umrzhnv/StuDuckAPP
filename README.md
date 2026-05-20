@@ -41,7 +41,7 @@
 
 ### Скриншоты
 
-**
+![Главное окно приложения](https://github.com/umrzhnv/StuDuckAPP/blob/main/Screenshots/Главная.png)
 
 ---
 
