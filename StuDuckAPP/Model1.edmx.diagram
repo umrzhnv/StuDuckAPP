@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d649f989e70e4c17bf2dcdd8c5f68479" Name="Diagram1" ZoomLevel="54">
+        <EntityTypeShape EntityType="StuduckDBModel.Grades" Width="1.5" PointX="1.5" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="StuduckDBModel.Groups" Width="1.5" PointX="10.5" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StuduckDBModel.Schedule" Width="1.5" PointX="5" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="StuduckDBModel.Students" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="StuduckDBModel.Subjects" Width="1.5" PointX="7.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="StuduckDBModel.Teachers" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="StuduckDBModel.Users" Width="1.5" PointX="8.625" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="StuduckDBModel.FK__Grades__StudentI__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK__Grades__SubjectI__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK__Grades__TeacherI__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK__Schedule__GroupI__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK__Students__GroupI__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK__Schedule__Subjec__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK__Schedule__Teache__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK__Students__Studen__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK_Teachers_Subjects" ManuallyRouted="false" />
+        <AssociationConnector Association="StuduckDBModel.FK__Teachers__Teache__4316F928" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
